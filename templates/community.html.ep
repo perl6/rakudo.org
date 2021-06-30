@@ -8,7 +8,7 @@
 
 <p>The <a href="<%= url_for 'community-irc' %>"
     class="btn btn-dark btn-sm">#raku IRC</a>
-  chat channel on Freenode
+  chat channel on LiberaChat
   is the primary means of communication among
   <%== p6 %> contributors, which makes it a great place to receive expert help
   with the <%== p6 %> language.</p>
